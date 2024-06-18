@@ -20,8 +20,5 @@ some picture of system
 ![13](https://user-images.githubusercontent.com/60538900/113383037-31428380-93ad-11eb-9d10-b3911020c8a6.jpg)
 
 
-<img width="1374" alt="Screen Shot 2567-05-20 at 10 30 47" src="https://github.com/ChinnawatPOK/Carcare-Project/assets/60538900/77b35ae5-ebd2-4a68-a033-384fd7df5f37">
-
-
 
 
